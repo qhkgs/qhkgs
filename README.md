@@ -13,5 +13,5 @@
 
 ###
 <div align="left">
-<img src="https://i.pinimg.com/736x/dd/f4/82/ddf4820de34a75b1b23eeae9382bfa98.jpg" height="600" alt="typescript logo"  />
+<img src="https://i.pinimg.com/736x/dd/f4/82/ddf4820de34a75b1b23eeae9382bfa98.jpg" height="240" alt="typescript logo"  />
   <img width="120" />
