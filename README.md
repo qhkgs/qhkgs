@@ -13,5 +13,5 @@
 
 ###
 <div align="left">
-<img src="https://i.pinimg.com/736x/dd/f4/82/ddf4820de34a75b1b23eeae9382bfa98.jpg" height="240" alt="typescript logo"  />
+<img src="[https://i.pinimg.com/736x/dd/f4/82/ddf4820de34a75b1b23eeae9382bfa98.jpg](https://media.discordapp.net/attachments/1370469919572889665/1389643334028361838/3b49bfc6bde94d3e2600c4592039d030.jpg?ex=68655db5&is=68640c35&hm=176e6a47dfd0b2db1e4bb04c094fd9754d5e658fde921d6154afb2ad7ce7d260&=&format=webp)" height="240" alt="typescript logo"  />
   <img width="120" />
