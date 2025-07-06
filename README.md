@@ -13,5 +13,5 @@
 
 ###
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1390693698706210897/1391405337021644900/3b49bfc6bde94d3e2600c4592039d030.jpg?ex=686bc6b3&is=686a7533&hm=87c20e8659a3503cf86548775188ec7416d57458485b7dc6e879f0d173f8a122&=&format=webp" height="100" alt="typescript logo"  />
+<img src="https://media.discordapp.net/attachments/1390693698706210897/1391406020345200680/1642346650_22-papik-pro-p-razdelitel-klipart-23.png?ex=686bc756&is=686a75d6&hm=9c59594e643c503f4263a6aa558ec0764d0b8f50362e4f0caede0df0846dd697&=&format=webp&quality=lossless" height="100" alt="typescript logo"  />
   <img width="120" />
