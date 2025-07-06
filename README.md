@@ -13,5 +13,5 @@
 
 ###
 <div align="center">
-<img src="[https://media.discordapp.net/attachments/1390693698706210897/1391406528317100235/lofas.png?ex=686bc7cf&is=686a764f&hm=53c94f2dfaddce7be218f6cd524a3e284ff596d7a46e6740a0329a2e3e3fe6dd&=&format=webp&quality=lossless" height="100" alt="typescript logo"  />
+<img src="https://media.discordapp.net/attachments/1390693698706210897/1391406528317100235/lofas.png?ex=686bc7cf&is=686a764f&hm=53c94f2dfaddce7be218f6cd524a3e284ff596d7a46e6740a0329a2e3e3fe6dd&=&format=webp&quality=lossless" height="100" alt="typescript logo"  />
   <img width="120" />
