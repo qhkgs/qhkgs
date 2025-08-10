@@ -1,7 +1,5 @@
 ###
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1390693698706210897/1391406528317100235/lofas.png?ex=686bc7cf&is=686a764f&hm=53c94f2dfaddce7be218f6cd524a3e284ff596d7a46e6740a0329a2e3e3fe6dd&=&format=webp&quality=lossless" height="50" alt="typescript logo"  />
-  <img width="50" />
 
 #### 𝔜𝔬𝔲'𝔯𝔢 𝔴𝔯𝔬𝔫𝔤. 𝔇𝔦𝔰𝔬𝔯𝔡𝔢𝔯 𝔦𝔰 𝔫𝔬𝔱 𝔦𝔫 𝔱𝔥𝔢 𝔴𝔬𝔯𝔩𝔡, 𝔟𝔲𝔱 𝔦𝔫 𝔱𝔥𝔬𝔰𝔢 𝔬𝔣 𝔲𝔰 𝔴𝔥𝔬 𝔩𝔦𝔳𝔢 𝔦𝔫 𝔦𝔱. 𝔜𝔢𝔰, 𝔰𝔬𝔪𝔢 𝔤𝔥𝔬𝔲𝔩𝔰 𝔣𝔬𝔩𝔩𝔬𝔴 𝔞 𝔭𝔞𝔱𝔥 𝔱𝔥𝔞𝔱 𝔩𝔢𝔞𝔳𝔢𝔰 𝔱𝔥𝔢𝔪 𝔠𝔬𝔩𝔡, 𝔧𝔲𝔰𝔱 𝔩𝔦𝔨𝔢 𝔥𝔲𝔪𝔞𝔫𝔰, 𝔬𝔫𝔢 𝔠𝔞𝔫 𝔠𝔥𝔬𝔬𝔰𝔢 𝔞 𝔠𝔬𝔪𝔭𝔩𝔢𝔱𝔢𝔩𝔶 𝔡𝔦𝔣𝔣𝔢𝔯𝔢𝔫𝔱 𝔭𝔞𝔱𝔥. 𝔚𝔢 𝔥𝔞𝔳𝔢 𝔞 𝔩𝔬𝔱 𝔱𝔬 𝔩𝔢𝔞𝔯𝔫, 𝔟𝔬𝔱𝔥 𝔤𝔥𝔬𝔲𝔩𝔰 𝔞𝔫𝔡 𝔪𝔢𝔫. 𝔚𝔢 𝔫𝔢𝔢𝔡 𝔱𝔬 𝔰𝔱𝔬𝔭 𝔣𝔦𝔤𝔥𝔱𝔦𝔫𝔤 𝔞𝔫𝔡 𝔰𝔱𝔞𝔯𝔱 𝔱𝔞𝔩𝔨𝔦𝔫𝔤. 𝔅𝔢𝔠𝔞𝔲𝔰𝔢 𝔴𝔥𝔢𝔫 𝔦𝔱 𝔠𝔬𝔪𝔢𝔰 𝔱𝔬 𝔱𝔥𝔢 𝔰𝔱𝔞𝔱𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔴𝔬𝔯𝔩𝔡, 𝔶𝔬𝔲 𝔠𝔞𝔫'𝔱 𝔭𝔬𝔦𝔫𝔱 𝔣𝔦𝔫𝔤𝔢𝔯𝔰 𝔞𝔱 𝔤𝔥𝔬𝔲𝔩𝔰 𝔬𝔯 𝔥𝔲𝔪𝔞𝔫𝔰. 𝔚𝔢 𝔞𝔯𝔢 𝔞𝔩𝔩 𝔱𝔬 𝔟𝔩𝔞𝔪𝔢.
 
@@ -18,5 +16,3 @@
 
 ###
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1390693698706210897/1391406528317100235/lofas.png?ex=686bc7cf&is=686a764f&hm=53c94f2dfaddce7be218f6cd524a3e284ff596d7a46e6740a0329a2e3e3fe6dd&=&format=webp&quality=lossless" height="50" alt="typescript logo"  />
-  <img width="50" />
