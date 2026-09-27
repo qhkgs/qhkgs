@@ -1,18 +1,140 @@
-###
 <div align="center">
 
-#### 𝔜𝔬𝔲'𝔯𝔢 𝔴𝔯𝔬𝔫𝔤. 𝔇𝔦𝔰𝔬𝔯𝔡𝔢𝔯 𝔦𝔰 𝔫𝔬𝔱 𝔦𝔫 𝔱𝔥𝔢 𝔴𝔬𝔯𝔩𝔡, 𝔟𝔲𝔱 𝔦𝔫 𝔱𝔥𝔬𝔰𝔢 𝔬𝔣 𝔲𝔰 𝔴𝔥𝔬 𝔩𝔦𝔳𝔢 𝔦𝔫 𝔦𝔱. 𝔜𝔢𝔰, 𝔰𝔬𝔪𝔢 𝔤𝔥𝔬𝔲𝔩𝔰 𝔣𝔬𝔩𝔩𝔬𝔴 𝔞 𝔭𝔞𝔱𝔥 𝔱𝔥𝔞𝔱 𝔩𝔢𝔞𝔳𝔢𝔰 𝔱𝔥𝔢𝔪 𝔠𝔬𝔩𝔡, 𝔧𝔲𝔰𝔱 𝔩𝔦𝔨𝔢 𝔥𝔲𝔪𝔞𝔫𝔰, 𝔬𝔫𝔢 𝔠𝔞𝔫 𝔠𝔥𝔬𝔬𝔰𝔢 𝔞 𝔠𝔬𝔪𝔭𝔩𝔢𝔱𝔢𝔩𝔶 𝔡𝔦𝔣𝔣𝔢𝔯𝔢𝔫𝔱 𝔭𝔞𝔱𝔥. 𝔚𝔢 𝔥𝔞𝔳𝔢 𝔞 𝔩𝔬𝔱 𝔱𝔬 𝔩𝔢𝔞𝔯𝔫, 𝔟𝔬𝔱𝔥 𝔤𝔥𝔬𝔲𝔩𝔰 𝔞𝔫𝔡 𝔪𝔢𝔫. 𝔚𝔢 𝔫𝔢𝔢𝔡 𝔱𝔬 𝔰𝔱𝔬𝔭 𝔣𝔦𝔤𝔥𝔱𝔦𝔫𝔤 𝔞𝔫𝔡 𝔰𝔱𝔞𝔯𝔱 𝔱𝔞𝔩𝔨𝔦𝔫𝔤. 𝔅𝔢𝔠𝔞𝔲𝔰𝔢 𝔴𝔥𝔢𝔫 𝔦𝔱 𝔠𝔬𝔪𝔢𝔰 𝔱𝔬 𝔱𝔥𝔢 𝔰𝔱𝔞𝔱𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔴𝔬𝔯𝔩𝔡, 𝔶𝔬𝔲 𝔠𝔞𝔫'𝔱 𝔭𝔬𝔦𝔫𝔱 𝔣𝔦𝔫𝔤𝔢𝔯𝔰 𝔞𝔱 𝔤𝔥𝔬𝔲𝔩𝔰 𝔬𝔯 𝔥𝔲𝔪𝔞𝔫𝔰. 𝔚𝔢 𝔞𝔯𝔢 𝔞𝔩𝔩 𝔱𝔬 𝔟𝔩𝔞𝔪𝔢.
+LAST LEVEL
 
-#### 𝔚𝔥𝔢𝔫 𝔴𝔢 𝔩𝔬𝔬𝔨 𝔡𝔢𝔢𝔭 𝔴𝔦𝔱𝔥𝔦𝔫, 𝔴𝔢 𝔣𝔦𝔫𝔡 𝔱𝔥𝔢 𝔱𝔯𝔲𝔱𝔥 𝔱𝔥𝔞𝔱 𝔟𝔬𝔱𝔥 𝔰𝔦𝔡𝔢𝔰 𝔟𝔢𝔞𝔯 𝔱𝔥𝔢 𝔴𝔢𝔦𝔤𝔥𝔱 𝔬𝔣 𝔱𝔥𝔢𝔦𝔯 𝔠𝔥𝔬𝔦𝔠𝔢𝔰. 𝔖𝔥𝔞𝔡𝔬𝔴𝔰 𝔞𝔫𝔡 𝔩𝔦𝔤𝔥𝔱 𝔠𝔬𝔢𝔵𝔦𝔰𝔱 𝔧𝔲𝔰𝔱 𝔞𝔰 𝔠𝔥𝔞𝔬𝔰 𝔞𝔫𝔡 𝔭𝔢𝔞𝔠𝔢 𝔞𝔯𝔢 𝔦𝔫𝔱𝔢𝔯𝔱𝔴𝔦𝔫𝔢𝔡. 𝔗𝔥𝔢 𝔭𝔞𝔱𝔥 𝔱𝔬 𝔥𝔞𝔯𝔪𝔬𝔫𝔶 𝔦𝔰 𝔫𝔬𝔱 𝔭𝔞𝔳𝔢𝔡 𝔟𝔶 𝔡𝔦𝔳𝔦𝔰𝔦𝔬𝔫 𝔟𝔲𝔱 𝔟𝔶 𝔲𝔫𝔡𝔢𝔯𝔰𝔱𝔞𝔫𝔡𝔦𝔫𝔤. 𝔏𝔢𝔱 𝔲𝔰 𝔟𝔯𝔢𝔞𝔨 𝔱𝔥𝔢 𝔠𝔥𝔞𝔦𝔫𝔰 𝔬𝔣 𝔥𝔞𝔱𝔯𝔢𝔡 𝔞𝔫𝔡 𝔣𝔬𝔯𝔤𝔢 𝔞 𝔣𝔲𝔱𝔲𝔯𝔢 𝔴𝔥𝔢𝔯𝔢 𝔤𝔥𝔬𝔲𝔩𝔰 𝔞𝔫𝔡 𝔥𝔲𝔪𝔞𝔫𝔰 𝔰𝔱𝔞𝔫𝔡 𝔰𝔦𝔡𝔢 𝔟𝔶 𝔰𝔦𝔡𝔢, 𝔲𝔫𝔦𝔱𝔢𝔡 𝔦𝔫 𝔱𝔥𝔢 𝔭𝔲𝔯𝔰𝔲𝔦𝔱 𝔬𝔣 𝔟𝔞𝔩𝔞𝔫𝔠𝔢.
-
-#### ℑ𝔱 𝔦𝔰 𝔬𝔫𝔩𝔶 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔡𝔦𝔞𝔩𝔬𝔤𝔲𝔢 𝔱𝔥𝔞𝔱 𝔴𝔢 𝔠𝔞𝔫 𝔲𝔫𝔢𝔞𝔯𝔱𝔥 𝔱𝔥𝔢 𝔥𝔦𝔡𝔡𝔢𝔫 𝔴𝔦𝔰𝔡𝔬𝔪 𝔦𝔫 𝔢𝔞𝔠𝔥 𝔬𝔱𝔥𝔢𝔯'𝔰 𝔢𝔵𝔭𝔢𝔯𝔦𝔢𝔫𝔠𝔢𝔰. 𝔗𝔥𝔢 𝔰𝔠𝔞𝔯𝔰 𝔴𝔢 𝔟𝔬𝔱𝔥 𝔠𝔥𝔢𝔯𝔦𝔰𝔥 𝔰𝔭𝔢𝔞𝔨 𝔬𝔣 𝔥𝔞𝔯𝔡𝔰𝔥𝔦𝔭, 𝔟𝔲𝔱 𝔱𝔥𝔢𝔶 𝔞𝔩𝔰𝔬 𝔰𝔭𝔢𝔞𝔨 𝔬𝔣 𝔯𝔢𝔰𝔦𝔩𝔦𝔢𝔫𝔠𝔢. 𝔚𝔢 𝔪𝔲𝔰𝔱 𝔩𝔢𝔞𝔯𝔫 𝔣𝔯𝔬𝔪 𝔱𝔥𝔢𝔪, 𝔣𝔬𝔯 𝔱𝔥𝔢𝔶 𝔞𝔯𝔢 𝔱𝔥𝔢 𝔰𝔦𝔩𝔢𝔫𝔱 𝔯𝔢𝔪𝔦𝔫𝔡𝔢𝔯𝔰 𝔬𝔣 𝔥𝔬𝔴 𝔣𝔞𝔯 𝔰𝔬𝔪𝔢 𝔥𝔞𝔳𝔢 𝔢𝔫𝔡𝔲𝔯𝔢𝔡 𝔞𝔫𝔡 𝔶𝔢𝔱 𝔴𝔢 𝔪𝔲𝔰𝔱 𝔬𝔳𝔢𝔯𝔠𝔬𝔪𝔢. 𝔊𝔥𝔬𝔲𝔩𝔰 𝔞𝔫𝔡 𝔥𝔲𝔪𝔞𝔫𝔰, 𝔱𝔥𝔢 𝔰𝔱𝔬𝔯𝔦𝔢𝔰 𝔪𝔞𝔶 𝔡𝔦𝔣𝔣𝔢𝔯, 𝔟𝔲𝔱 𝔴𝔢 𝔞𝔩𝔩 𝔰𝔥𝔞𝔯𝔢 𝔱𝔥𝔢 𝔰𝔞𝔪𝔢 𝔢𝔰𝔰𝔢𝔫𝔠𝔢 𝔬𝔣 𝔢𝔵𝔦𝔰𝔱𝔢𝔫𝔠𝔢—𝔱𝔥𝔢 𝔡𝔢𝔰𝔦𝔯𝔢 𝔱𝔬 𝔣𝔢𝔢𝔩, 𝔱𝔬 𝔱𝔥𝔯𝔦𝔳𝔢, 𝔞𝔫𝔡 𝔱𝔬 𝔣𝔦𝔫𝔡 𝔪𝔢𝔞𝔫𝔦𝔫𝔤.
-
-#### 𝔗𝔥𝔢 𝔱𝔦𝔪𝔢 𝔥𝔞𝔰 𝔠𝔬𝔪𝔢 𝔱𝔬 𝔠𝔞𝔰𝔱 𝔞𝔰𝔦𝔡𝔢 𝔣𝔢𝔞𝔯, 𝔪𝔦𝔰𝔱𝔯𝔲𝔰𝔱, 𝔞𝔫𝔡 𝔭𝔯𝔢𝔧𝔲𝔡𝔦𝔠𝔢. 𝔗𝔬 𝔟𝔲𝔦𝔩𝔡 𝔟𝔯𝔦𝔡𝔤𝔢𝔰 𝔴𝔥𝔢𝔯𝔢 𝔬𝔫𝔠𝔢 𝔰𝔱𝔬𝔬𝔡. 𝔗𝔬 𝔱𝔯𝔞𝔡𝔢 𝔢𝔤𝔬 𝔣𝔬𝔯 𝔯𝔢𝔰𝔭𝔢𝔠𝔱 𝔫𝔬𝔱 𝔦𝔫 𝔡𝔬𝔪𝔦𝔫𝔞𝔫𝔠𝔢, 𝔟𝔲𝔱 𝔦𝔫 𝔲𝔫𝔦𝔱𝔶. 𝔗𝔬𝔤𝔢𝔱𝔥𝔢𝔯, 𝔴𝔢 𝔲𝔰𝔢 𝔱𝔥𝔢 𝔭𝔬𝔴𝔢𝔯 𝔱𝔬 𝔥𝔢𝔞𝔩 𝔱𝔥𝔦𝔰 𝔴𝔬𝔯𝔩𝔡, 𝔱𝔬 𝔠𝔥𝔬𝔬𝔰𝔢 𝔩𝔬𝔳𝔢 𝔬𝔳𝔢𝔯 𝔞𝔫𝔤𝔢𝔯, 𝔯𝔢𝔰𝔭𝔢𝔠𝔱 𝔬𝔳𝔢𝔯 𝔭𝔯𝔦𝔡𝔢, 𝔞𝔫𝔡 𝔭𝔢𝔞𝔠𝔢 𝔬𝔳𝔢𝔯 𝔰𝔱𝔯𝔦𝔣𝔢. 𝔏𝔢𝔱 𝔲𝔰 𝔠𝔥𝔬𝔬𝔰𝔢 𝔩𝔬𝔳𝔢 𝔬𝔳𝔢𝔯 𝔥𝔞𝔱𝔯𝔢𝔡, 𝔲𝔫𝔦𝔱𝔶 𝔬𝔳𝔢𝔯 𝔦𝔤𝔫𝔬𝔯𝔞𝔫𝔠𝔢, 𝔞𝔫𝔡 𝔠𝔬𝔲𝔯𝔞𝔤𝔢 𝔬𝔳𝔢𝔯 𝔡𝔢𝔰𝔭𝔞𝔦𝔯.
-
-#### 𝔚𝔢 𝔞𝔯𝔢 𝔫𝔬𝔱 𝔢𝔫𝔢𝔪𝔦𝔢𝔰 𝔟𝔲𝔱 𝔠𝔬𝔪𝔭𝔞𝔫𝔦𝔬𝔫𝔰 𝔬𝔫 𝔱𝔥𝔢 𝔧𝔬𝔲𝔯𝔫𝔢𝔶 𝔬𝔣 𝔩𝔦𝔣𝔢. 𝔄𝔫𝔡 𝔦𝔫 𝔬𝔲𝔯 𝔥𝔞𝔫𝔡𝔰 𝔩𝔦𝔢𝔰 𝔱𝔥𝔢 𝔠𝔥𝔬𝔦𝔠𝔢 𝔱𝔬 𝔪𝔞𝔨𝔢 𝔱𝔥𝔦𝔰 𝔴𝔬𝔯𝔩𝔡, 𝔫𝔬𝔱 𝔬𝔫𝔢 𝔬𝔣 𝔡𝔦𝔳𝔦𝔰𝔦𝔬𝔫, 𝔟𝔲𝔱 𝔬𝔫𝔢 𝔬𝔣 𝔥𝔞𝔯𝔪𝔬𝔫𝔶 𝔞𝔫𝔡 𝔲𝔫𝔡𝔢𝔯𝔰𝔱𝔞𝔫𝔡𝔦𝔫𝔤.
-
-#### 𝔖𝔬𝔪𝔢𝔱𝔦𝔪𝔢𝔰, 𝔱𝔬 𝔱𝔯𝔲𝔩𝔶 𝔲𝔫𝔡𝔢𝔯𝔰𝔱𝔞𝔫𝔡 𝔞𝔫𝔬𝔱𝔥𝔢𝔯 𝔭𝔢𝔯𝔰𝔬𝔫, 𝔴𝔢 𝔫𝔢𝔢𝔡 𝔱𝔬 𝔰𝔱𝔬𝔭 𝔳𝔦𝔢𝔴𝔦𝔫𝔤 𝔱𝔥𝔢𝔪 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔱𝔥𝔢 𝔩𝔢𝔫𝔰 𝔬𝔣 𝔬𝔲𝔯 𝔬𝔴𝔫 𝔭𝔞𝔦𝔫. 𝔗𝔬𝔬 𝔬𝔣𝔱𝔢𝔫 𝔴𝔢 𝔭𝔯𝔬𝔧𝔢𝔠𝔱 𝔬𝔲𝔯 𝔣𝔢𝔞𝔯𝔰, 𝔬𝔲𝔯 𝔲𝔫𝔯𝔢𝔰𝔬𝔩𝔳𝔢𝔡 𝔴𝔬𝔲𝔫𝔡𝔰, 𝔬𝔲𝔯 𝔡𝔦𝔰𝔞𝔭𝔭𝔬𝔦𝔫𝔱𝔪𝔢𝔫𝔱𝔰—𝔞𝔫𝔡 𝔠𝔞𝔩𝔩 𝔦𝔱 "𝔯𝔢𝔞𝔩𝔦𝔱𝔶." 𝔅𝔲𝔱 𝔯𝔢𝔞𝔩𝔦𝔱𝔶 𝔥𝔞𝔰 𝔩𝔞𝔶𝔢𝔯𝔰. 𝔖𝔬𝔪𝔢𝔬𝔫𝔢 𝔴𝔥𝔬 𝔰𝔢𝔢𝔪𝔰 𝔡𝔦𝔰𝔱𝔞𝔫𝔱 𝔪𝔦𝔤𝔥𝔱 𝔰𝔦𝔪𝔭𝔩𝔶 𝔟𝔢 𝔱𝔦𝔯𝔢𝔡 𝔬𝔣 𝔟𝔢𝔱𝔯𝔞𝔶𝔞𝔩. 𝔖𝔬𝔪𝔢𝔬𝔫𝔢 𝔴𝔥𝔬 𝔠𝔬𝔪𝔢𝔰 𝔬𝔣𝔣 𝔥𝔞𝔯𝔰𝔥 𝔪𝔞𝔶 𝔥𝔞𝔳𝔢 𝔰𝔭𝔢𝔫𝔱 𝔶𝔢𝔞𝔯𝔰 𝔦𝔫 𝔡𝔢𝔣𝔢𝔫𝔰𝔢 𝔪𝔬𝔡𝔢. ℑ𝔣 𝔴𝔢 𝔭𝔞𝔲𝔰𝔢 𝔣𝔬𝔯 𝔞 𝔪𝔬𝔪𝔢𝔫𝔱, 𝔱𝔞𝔨𝔢 𝔞 𝔟𝔯𝔢𝔞𝔱𝔥, 𝔞𝔫𝔡 𝔩𝔬𝔬𝔨 𝔫𝔬𝔱 𝔴𝔦𝔱𝔥 𝔬𝔲𝔯 𝔢𝔶𝔢𝔰 𝔟𝔲𝔱 𝔴𝔦𝔱𝔥 𝔬𝔲𝔯 𝔥𝔢𝔞𝔯𝔱, 𝔦𝔱 𝔟𝔢𝔠𝔬𝔪𝔢𝔰 𝔠𝔩𝔢𝔞𝔯: 𝔴𝔢’𝔯𝔢 𝔞𝔩𝔩 𝔧𝔲𝔰𝔱 𝔱𝔯𝔶𝔦𝔫𝔤 𝔱𝔬 𝔩𝔢𝔞𝔯𝔫 𝔥𝔬𝔴 𝔱𝔬 𝔟𝔢.
+Engineering beyond the obvious.
 
 
-###
+
+
+<br>
+
+LAST LEVEL is a developer collective focused on software, automation,
+infrastructure and experimental digital products.
+
+BUILD · BREAK · LEARN · REBUILD
+
+</div>
+
+// SYSTEM STATUS
+
+<table>
+<tr>
+<td width="50%">
+
+◉ CURRENT MODE
+
+ACTIVE
+
+We build practical systems, tools and experiments — from small utilities to complete products.
+
+</td>
+<td width="50%">
+
+◉ DEVELOPMENT PHILOSOPHY
+
+KEEP MOVING
+
+No unnecessary complexity.
+No blind copying.
+Understand the system, then improve it.
+
+</td>
+</tr>
+</table>
+
+// WHAT WE BUILD
+
+┌──────────────────────────────────────────────────────────────┐
+│  01  SOFTWARE        applications & developer tools          │
+│  02  AUTOMATION      bots, scripts & workflows              │
+│  03  INFRASTRUCTURE  services, APIs & deployment             │
+│  04  EXPERIMENTS     ideas that deserve to be tested         │
+└──────────────────────────────────────────────────────────────┘
+
+Our projects are built around one principle:
+
+If it can be made simpler, faster or more useful — we experiment.
+
+// TECHNOLOGY
+
 <div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+// SELECTED PROJECTS
+
+Replace the placeholders below with the repositories you want to expose on the profile.
+
+Project
+
+Description
+
+Status
+
+PROJECT_01
+
+Short description of the project
+
+ACTIVE
+
+PROJECT_02
+
+Short description of the project
+
+BUILDING
+
+PROJECT_03
+
+Short description of the project
+
+EXPERIMENTAL
+
+// GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=qhkgs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cc9ff&text_color=c9d1d9&icon_color=9cc9ff&count_private=true" height="170" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhkgs&layout=compact&hide_border=true&bg_color=0d1117&title_color=9cc9ff&text_color=c9d1d9&langs_count=8" height="170" alt="Most used languages">
+
+</div>
+
+// PRINCIPLES
+
+01  Build things that solve real problems.
+02  Prefer clarity over unnecessary complexity.
+03  Learn from failure instead of hiding it.
+04  Keep experiments experimental.
+05  Ship → measure → improve.
+
+// CONNECT
+
+<div align="center">
+
+GitHub: @qhkgs
+
+<br>
+
+LAST LEVEL
+
+not the end — just another level
+
+</div>
+
+<div align="center">
+
+<sub>© LAST LEVEL · Built with curiosity, code and too much coffee.</sub>
+
+</div>
