@@ -1,72 +1,41 @@
 <div align="center">
-
 LAST LEVEL
+Engineering beyond the obvious.
 
-BUILD BEYOND THE OBVIOUS.
-
-Software • Systems • Automation • Ideas
 
 <br>
 
-
-
-
-
+LAST LEVEL is a developer collective focused on software, automation,
+infrastructure and experimental digital products.
+BUILD · BREAK · LEARN · REBUILD
 </div>
 
-> whoami
+// SYSTEM STATUS
+<table> <tr> <td width="50%">
+◉ CURRENT MODE
+ACTIVE
+We build practical systems, tools and experiments — from small utilities to complete products.
 
-Last Level is a small developer collective focused on building things that are
-useful, precise and hard to forget.
+</td> <td width="50%">
 
-We care about the layer behind the interface — architecture, automation, reliability,
-performance and the details that make a product feel complete.
+◉ DEVELOPMENT PHILOSOPHY
+KEEP MOVING
+No unnecessary complexity.
+No blind copying.
+Understand the system, then improve it.
 
+</td> </tr> </table>
+
+// WHAT WE BUILD
 ┌──────────────────────────────────────────────────────────────┐
-│  LAST LEVEL // DEVELOPMENT UNIT                              │
-├──────────────────────────────────────────────────────────────┤
-│  MODE        : BUILD                                         │
-│  MINDSET     : ENGINEER                                      │
-│  PRINCIPLE   : SIMPLICITY × PRECISION                        │
-│  OBJECTIVE   : TURN IDEAS INTO SYSTEMS                       │
-│  NEXT LEVEL  : ALWAYS                                        │
+│  01  SOFTWARE        applications & developer tools          │
+│  02  AUTOMATION      bots, scripts & workflows              │
+│  03  INFRASTRUCTURE  services, APIs & deployment             │
+│  04  EXPERIMENTS     ideas that deserve to be tested         │
 └──────────────────────────────────────────────────────────────┘
-
-// what we build
-
-AREA
-
-DIRECTION
-
-Web
-
-Interfaces, services and full-stack applications
-
-Automation
-
-Bots, integrations and workflow systems
-
-Backend
-
-APIs, databases and business logic
-
-Tools
-
-Developer utilities and internal systems
-
-Infrastructure
-
-Deployment, environments and system reliability
-
-Experiments
-
-Concepts that may become something bigger
-
-We don't build for the sake of adding another repository.
-Every project should solve a problem, teach something or open a new door.
-
-// technology
-
+Our projects are built around one principle:
+If it can be made simpler, faster or more useful — we experiment.
+// TECHNOLOGY
 <div align="center">
 
 
@@ -81,122 +50,37 @@ Every project should solve a problem, teach something or open a new door.
 
 </div>
 
-// selected projects
-
-Replace the entries below with your real repositories.
-The structure is intentionally minimal so the profile stays clean as the organization grows.
-
-<table>
-<tr>
-<td width="50%">
-
-PROJECT_01
-
-SYSTEM / BACKEND
-
-A short description of what the project does and why it exists.
-
-</td>
-<td width="50%">
-
-PROJECT_02
-
-AUTOMATION / BOT
-
-A short description of the project, its purpose and the technology behind it.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-PROJECT_03
-
-WEB / PRODUCT
-
-A short description of the interface, service or product.
-
-</td>
-<td width="50%">
-
-PROJECT_04
-
-EXPERIMENT / R&D
-
-An experimental idea, prototype or technical exploration.
-
-</td>
-</tr>
-</table>
-
-// engineering principles
-
-01  MAKE IT SIMPLE
-    Complexity is a cost. Remove what does not need to exist.
-
-02  BUILD WITH PURPOSE
-    A clean solution starts with a clear problem.
-
-03  AUTOMATE THE REPEATABLE
-    If a machine can do it reliably, let the machine do it.
-
-04  DESIGN FOR THE NEXT VERSION
-    Good code works today. Great systems survive tomorrow.
-
-05  DETAILS MATTER
-    The difference between "working" and "finished" is usually detail.
-
-// workflow
-
-IDEA
-  │
-  ▼
-RESEARCH ────────► DEFINE
-                    │
-                    ▼
-                 DESIGN
-                    │
-                    ▼
-                  BUILD
-                    │
-                    ▼
-                  TEST
-                    │
-                    ▼
-                 DEPLOY
-                    │
-                    ▼
-                ITERATE
-                    │
-                    └──────────────► NEXT LEVEL
-
-// current state
-
-[████████████████████████████████████████]  ONLINE
-
-SYSTEM      : OPERATIONAL
-PROJECTS    : IN PROGRESS
-EXPERIMENTS : RUNNING
-IDEAS       : UNLIMITED
-LIMIT       : NONE
-
-// philosophy
-
-There is always another level.
-
-We believe good engineering is not about making the loudest thing.
-It is about making something that works, lasts and leaves a trace.
-
-Less noise. More signal.
-
+// SELECTED PROJECTS
+Replace the placeholders below with the repositories you want to expose on the profile.
+Project	Description	Status
+PROJECT_01	Short description of the project	ACTIVE
+PROJECT_02	Short description of the project	BUILDING
+PROJECT_03	Short description of the project	EXPERIMENTAL
+// GITHUB ACTIVITY
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=qhkgs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9cc9ff&text_color=c9d1d9&icon_color=9cc9ff&count_private=true" height="170" alt="GitHub statistics">
 
-LAST LEVEL
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhkgs&layout=compact&hide_border=true&bg_color=0d1117&title_color=9cc9ff&text_color=c9d1d9&langs_count=8" height="170" alt="Most used languages">
 
-BUILD. BREAK. LEARN. REBUILD.
+</div>
+
+// PRINCIPLES
+01  Build things that solve real problems.
+02  Prefer clarity over unnecessary complexity.
+03  Learn from failure instead of hiding it.
+04  Keep experiments experimental.
+05  Ship → measure → improve.
+// CONNECT
+<div align="center">
+GitHub: @qhkgs
 
 <br>
 
-<sub>© Last Level — engineered with curiosity.</sub>
+LAST LEVEL
+not the end — just another level
+</div>
+
+<div align="center">
+<sub>© LAST LEVEL · Built with curiosity, code and too much coffee.</sub>
 
 </div>
